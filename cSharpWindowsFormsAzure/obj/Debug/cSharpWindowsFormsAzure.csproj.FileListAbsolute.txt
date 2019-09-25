@@ -1,0 +1,26 @@
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.exe.config
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.exe
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.pdb
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csprojAssemblyReference.cache
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.MainForm.resources
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.Properties.Resources.resources
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserCreate.resources
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserRead.resources
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csproj.GenerateResource.cache
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.exe
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.pdb
+C:\Users\bbdnet1869\source\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserUpdate.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csprojAssemblyReference.cache
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.MainForm.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.Properties.Resources.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserCreate.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserRead.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.UserUpdate.resources
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csproj.GenerateResource.cache
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.csproj.CoreCompileInputs.cache
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.exe
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\obj\Debug\cSharpWindowsFormsAzure.pdb
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.exe.config
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.exe
+F:\source old\repos\cSharpWindowsFormsAzure\cSharpWindowsFormsAzure\bin\Debug\cSharpWindowsFormsAzure.pdb
