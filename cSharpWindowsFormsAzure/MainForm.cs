@@ -26,11 +26,12 @@ namespace cSharpWindowsFormsAzure
             try
             {
                 // Setup Connection String
+                // Please Change this to the required 
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
-                builder.DataSource = "coll8agent.database.windows.net";
-                builder.UserID = "bbdAdmin";
-                builder.Password = "BBDisgreat123";
-                builder.InitialCatalog = "coll8Agent";
+                builder.DataSource = "datasource.database.windows.net";
+                builder.UserID = "user";
+                builder.Password = "password";
+                builder.InitialCatalog = "initialcatalog";
 
                 // Setup Sql String
 

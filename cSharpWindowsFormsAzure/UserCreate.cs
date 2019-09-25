@@ -41,6 +41,7 @@ namespace cSharpWindowsFormsAzure
             string tempPassword = textBoxUserPassword.Text;
 
             // Setup Connection String
+            // Please Change this to the required 
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
             builder.DataSource = "datasource.database.windows.net";
             builder.UserID = "userId";
