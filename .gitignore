@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/cSharpWindowsFormsAzure/v16/Server/sqlite3/storage.ide-wal
+/.vs/cSharpWindowsFormsAzure/v16/Server/sqlite3/storage.ide-shm
+/.vs/cSharpWindowsFormsAzure/v16/Server/sqlite3/storage.ide
+/.vs/cSharpWindowsFormsAzure/v16/Server/sqlite3/db.lock
